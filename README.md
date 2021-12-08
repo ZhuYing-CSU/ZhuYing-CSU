@@ -1,6 +1,6 @@
 # n1ce to meet y0u :wink:
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZhuYing-CSU&show_icons=true&theme=gruvbox" height="180" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZhuYing-CSU&show_icons=true&theme=gruvbox&count_private=true" height="180" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuYing-CSU&langs_count=8&theme=gruvbox&layout=compact" height="180" align="right"/>
 
 <!--
