@@ -1,6 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ZhuYing-CSU&show_icons=true&theme=gruvbox" height="200" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZhuYing-CSU&show_icons=true&theme=gruvbox" height="160" align="left"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuYing-CSU&langs_count=8&theme=gruvbox&layout=compact" height="200" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuYing-CSU&langs_count=8&theme=gruvbox&layout=compact" height="160" align="right"/>
 
 <!--
 **ZhuYing-CSU/ZhuYing-CSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
