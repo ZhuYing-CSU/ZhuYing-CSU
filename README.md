@@ -1,7 +1,6 @@
-# n1ce to meet y0u :wink:
+# n1ce t0 m4et y0u :wink:
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZhuYing-CSU&show_icons=true&theme=gruvbox&count_private=true" width="54.75%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuYing-CSU&langs_count=8&theme=gruvbox&layout=compact" width="39.72%" align="right"/>
+![Github Info](https://github-readme-stats-4pdf5as84-zhuying-csu.vercel.app/api?username=ZhuYing-CSU&show_icons=true&theme=gruvbox&count_private=true) ![Language Statics](https://github-readme-stats-4pdf5as84-zhuying-csu.vercel.app/api/top-langs/?username=ZhuYing-CSU&langs_count=8&theme=gruvbox&layout=compact)
 
 <!--
 **ZhuYing-CSU/ZhuYing-CSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
