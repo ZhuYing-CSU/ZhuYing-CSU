@@ -31,5 +31,5 @@
 <img src="https://github-readme-stats-4pdf5as84-zhuying-csu.vercel.app/api?username=ZhuYing-CSU&show_icons=true&theme=github_dark&count_private=true" width="50%" align="left"/>
 
 
-<img src="https://github-readme-stats-4pdf5as84-zhuying-csu.vercel.app/api/top-langs/?username=ZhuYing-CSU&langs_count=8&theme=github_dark&layout=compact&hide=jupyter%20notebook,html,javascript,perl" width="38%" align="right"/>
+<img src="https://github-readme-stats-4pdf5as84-zhuying-csu.vercel.app/api/top-langs/?username=ZhuYing-CSU&langs_count=8&theme=github_dark&layout=compact&hide=jupyter%20notebook,html,javascript,perl,css" width="38%" align="right"/>
 
